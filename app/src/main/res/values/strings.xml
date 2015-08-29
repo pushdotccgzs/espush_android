@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ESPUSH</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">关于</string>
+    <string name="action_help">帮助</string>
+
+    <string-array name="array_device_dialog">
+        　　
+        <item>远程AT指令</item>
+        　　
+        <item>远程Lua代码</item>
+        　　
+        <item>在线状态刷新</item>
+
+        　　
+    </string-array>
+
+    <string-array name="array_search_spinner">
+        　　
+        <item>请选择</item>
+        <item>智能灯</item>
+        　　
+        <item>热水器</item>
+        　　
+        <item>其他</item>
+
+        　　
+    </string-array>
+
+
+
+
+</resources>
