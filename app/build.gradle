@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "com.kas4.espush"
+        applicationId "cn.espush.app"
         minSdkVersion 14
         targetSdkVersion 22
         versionCode 1
